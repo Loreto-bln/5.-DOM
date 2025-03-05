@@ -1,0 +1,15 @@
+.cajaComentarios {
+    background: rgb(220, 215, 250);
+    padding: 10px;
+    list-style: none;
+    border: 1px solid lightgrey;
+    border-radius:10
+}
+button{
+    background: rgb(183, 182, 189);
+    padding: 10px;
+    list-style: none;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+}
+}
